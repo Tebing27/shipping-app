@@ -1,4 +1,4 @@
-## Screenshots 📱
+## Screenshots
 
 Berikut adalah tampilan antarmuka dari aplikasi Shipping Tracking:
 
